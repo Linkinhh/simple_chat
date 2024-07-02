@@ -1,5 +1,6 @@
 # COMO COMPILAR
 
+**IMPORTANTE**: Não é possível rodar no Windows.
 - Ter instalado CMAKE: https://cmake.org/download/
 - Abrir um console.
 - Localizar a rota do projeto e accesar a pasta "simple_chat" desde o console.
