@@ -31,3 +31,6 @@ make
 
 - Se quiser sair do server tem que usar a combinação de teclas: "Ctrl+C" o a combinação que cumpla com a mesma função no seu SO.
 
+# Exemplo
+
+![](image.png)
