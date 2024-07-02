@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "socketutil.h": "c",
+        "inet.h": "c",
+        "system_error": "c",
+        "stdbool.h": "c",
+        "unistd.h": "c"
+    }
+}

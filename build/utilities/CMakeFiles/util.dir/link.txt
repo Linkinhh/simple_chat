@@ -1,0 +1,2 @@
+/usr/bin/ar qc "/home/linkin/Documents/GitHub/simple_chat/bin/Linux64/static libs/libutil.a" CMakeFiles/util.dir/src/socketUtil.c.o
+/usr/bin/ranlib "/home/linkin/Documents/GitHub/simple_chat/bin/Linux64/static libs/libutil.a"
