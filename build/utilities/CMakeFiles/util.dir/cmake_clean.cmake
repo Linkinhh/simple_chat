@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/linkin/Documents/GitHub/simple_chat/bin/Linux64/static libs/libutil.a"
-  "/home/linkin/Documents/GitHub/simple_chat/bin/Linux64/static libs/libutil.pdb"
+  "/home/linkin/Documents/GitHub/simple_chat/bin/static libs/libutil.a"
+  "/home/linkin/Documents/GitHub/simple_chat/bin/static libs/libutil.pdb"
   "CMakeFiles/util.dir/src/socketUtil.c.o"
   "CMakeFiles/util.dir/src/socketUtil.c.o.d"
 )

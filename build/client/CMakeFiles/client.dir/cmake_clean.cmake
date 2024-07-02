@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/linkin/Documents/GitHub/simple_chat/bin/Linux64/client"
-  "/home/linkin/Documents/GitHub/simple_chat/bin/Linux64/client.pdb"
+  "/home/linkin/Documents/GitHub/simple_chat/bin/client"
+  "/home/linkin/Documents/GitHub/simple_chat/bin/client.pdb"
   "CMakeFiles/client.dir/socketClient.c.o"
   "CMakeFiles/client.dir/socketClient.c.o.d"
 )
