@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/server.dir/src/socketServer.c.o -o /home/linkin/Documents/GitHub/simple_chat/bin/server  "/home/linkin/Documents/GitHub/simple_chat/bin/static libs/libutil.a"

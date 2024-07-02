@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/client.dir/socketClient.c.o -o /home/linkin/Documents/GitHub/simple_chat/bin/client  "/home/linkin/Documents/GitHub/simple_chat/bin/static libs/libutil.a"

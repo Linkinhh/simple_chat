@@ -34,3 +34,11 @@ make
 # Exemplo
 
 ![](image.png)
+
+# Desenvolvedores
+
+Feito por:
+
+- Enrique Córdova Sáenz
+- Miguel Córdova Oruna
+- Esteban Mercado Cueva
